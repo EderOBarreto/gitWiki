@@ -3,7 +3,7 @@ Comandos e configurações básicas do git
 
 <h3>Sumário<h3>
 <ul>
-  <li><a href ="add"> git add</a></li>
+  <li><a href ="#add"> git add</a></li>
   <li>git branch</li>
   <li>git checkout</li>
   <li>git clone</li>
@@ -19,4 +19,4 @@ Comandos e configurações básicas do git
   <li>git status</li>
 </ul>
 
-<h3><a href="add">git add</a></h3>
+<h3><a id="add">git add</a></h3>
